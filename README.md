@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me
+
+- Studying Computer Science at KIT
+- I like doing lots of sports like biking, parkour, tricking, etc
 
 <!--
 **TechnicFreakz/TechnicFreakz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
